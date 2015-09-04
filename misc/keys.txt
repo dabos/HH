@@ -1,0 +1,33 @@
+alt-shift-f - open file in other window
+alt-s - save
+alt-m looks for and executes a build.bat
+alt-b/alt-shift b - switch buffer
+alt-w - toggle window
+alt-c/alt -shift-c  - toggle between H file and CPP file
+alt-k - kill window
+
+ctrl-space -set block
+ctrl-tab - reindent block
+ctrl-q copy block
+ctrl-f paste block
+ctrl-w cuts the block
+
+alt-u undo
+alt-r revert buffer
+alt-shift-; pops back to the previous mark
+
+alt-j jump to a function by name
+ctrl-s - incremental search
+  ctrl-s next occurence
+  ctrl-r prev occurence
+  
+alt-o query replace
+alt-l replace inside block
+
+alt-[ begin recording
+alt-] finish recording
+alt-' execut macro recording
+
+alt-. reflow comment
+alt-n - go to error after compile
+alt-g go to line
